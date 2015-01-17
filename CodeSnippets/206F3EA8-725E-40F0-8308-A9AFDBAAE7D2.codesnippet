@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>blockMethod</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>CodeBlock</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string> (&lt;#return type#&gt; (^)(&lt;#parameters#&gt;))&lt;#block name#&gt; {
+     &lt;#code#&gt;
+ }</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>206F3EA8-725E-40F0-8308-A9AFDBAAE7D2</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Definition for a C block as a parameter for a method</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>C Block as Method Parameter</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
