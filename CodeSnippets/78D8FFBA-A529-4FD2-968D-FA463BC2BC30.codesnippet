@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>sself</string>
+	<string>constructors</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeExpression</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>__strong typeof(weakSelf) strongSelf = weakSelf;</string>
+	<string>#pragma mark - Constructor(s)</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>3F948FF6-092C-49A0-8092-9030E2913ECE</string>
+	<string>78D8FFBA-A529-4FD2-968D-FA463BC2BC30</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>strongSelf</string>
+	<string>Constructors Pragma Section</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
